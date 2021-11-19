@@ -1,2 +1,2 @@
 <?php 
-echo "Login";
+echo "Solo soy el Login Model";
